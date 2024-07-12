@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "noble-safeguard-429122-a0",
+  "private_key_id": "c1c19ea5f31aed5310430b70e112003a6a06497f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDLS6nOxmRLPwOH\n0u9OtTM1595VvL2IEkv0ohEzdFP9wsEKiYVNVfjRIzTSt518nSIyVCiH4tPn7Qht\nYOy5de8ORGw+YI8iSS9yJK2bid07NBtbIBSkaL7BBJ5L5C8vl2lnS7c3xikVSKwW\npR+xuFAkkSK9hGzhKA/omMS4oAZlNwmWVEuUuKxrPp+olGb+evzGKk1QucMWf4fL\netA3kizz0RGEOAhJQKUWHme8P5NW/zzaWb1VdvXU5wnkexlvS/Ias0atdPfid0iM\nESLPnErTSEGH/+fDGn3avYd4UH+XVKeTHm7VuUK/x9dVVpJYh6mgsuf5m6/57/v9\nuip48V5hAgMBAAECggEARfbHvWBcouLQWb232xwUQECIrXQTvFEjr9DY357wyvvs\nCK7UYA2u4Hbf1ocXnYvMeYqqGj3vlLloNZBuV9NlDsFwiTUc/X03ZW6HCujy6M2h\nfoZ3ZC+iOnZW7iJdNOFEhqaxqvG5MNh+VRrF4hlfB36leJirCgAKHY/539o+6TTe\n/VIsrOlSJScJij+CAZJ75O5ZGF67wXAXIkSkafDvF3OWtwp3ZUMZu2/N9WB+ycyt\nIB+Q02gUuPNKuX8gyrjtzoAM/350NUOUzM9Z9Lzbng1gr7dbCHCyU2qmAeCpPjFK\njJaiyi14NPhVCH8A39KT8BeT5OmICjb7VSHCNUYrywKBgQDx+AjlCUhrUrXLBedV\nt7e+tBL09fqsidVbls4YHFWTvNVoVVMTnw/LC29bDVMT2mL3Y3AoEQ7Y1QsRuGMJ\n0PLOIoYaHVhPjkgMEJXhVjhXlElOgACRiNB38fh4J9gVUXTQOCm0aOOW4jWxjAM7\n7J9djtaCp+opN5WrsgwRla6bjwKBgQDXFYh4hzpCpTx5nUF4NhPumND6jxWk2Jaq\nmTTqMy6OzVxlv+o2LRItei1eOMA3+gOzoIDdrTpGEH4w/oHajsMCjKDic2P95Wti\n6PQH94ojzbnM+nS/PLcrijMRUT722/bobuQBRSJTqcMXCecOraeL5t8dRILNshff\nzTm68OkvDwKBgQCNLpsKAFuX+1+FQUGUeyikBe/VrDyCNb4evaQs30Nze0fNo5Ng\nrHuLjnV/3AtwVwlNrWCAkEtoaw4VXc+zp440hmJWlG61pKAXIgpBu4wOVcBcJEWw\npPJ2OeIvQZhMAAY3g72ZvWWl4QFRQg+VBGCMN06kV5NCT2NuFeoCzKJfswKBgQCZ\nqESK9vDkU+/UYkg3fUrYFkyV9EreLe3ViwaGmnIUixoLhwPoGGL4ImTu/1QzqWWj\nmnL165/KFlZQ4kIaxgsDczwtC4rQBGqniw1r86i402x9yCBHzzR84oqBQK3e5l6K\nx04UqjNP2eQKPYTYs68S/6k924gnM6hittcbeqjceQKBgQC/1UX5I3KADyQ1+NU5\njclPRUK9tfffTI+znYaNCylIxU35n100Nph+UozT+LNNbFo9P8CSheywpvxBhNEi\nNoRGAekWA2v/x6zB+cBPqLUrrD8I9TaNcR3bxf5sZ+pxR4oh5ZrywBASmEnQt+kS\nqjoydNPy8e35nanBt0ZnTyeTyA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-acc-for-tg@noble-safeguard-429122-a0.iam.gserviceaccount.com",
+  "client_id": "117875009649222540317",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-acc-for-tg%40noble-safeguard-429122-a0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
